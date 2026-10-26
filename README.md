@@ -8,3 +8,7 @@ Here is a list:
   + Item 3
 
 For more information about Markdown syntax, see the [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/).
+
+## Updates
+
+This line was added on the `new-feature-123` branch as part of the PR workflow exercise.
